@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">有借有還 再借不難</string>
+    <string name="hello_world">我要還錢</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_dept">add_dept</string>
+    <string name="title_activity_welcome">Welcome</string>
+    <string name="dept_name">債權人</string>
+    <string name="money">金額</string>
+
+</resources>
